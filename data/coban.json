@@ -1,0 +1,127 @@
+[
+    {
+        "quest": "5 + 6 = ?",
+        "op": "+",
+        "answer": [
+            5,
+            4,
+            11
+        ],
+        "correct": 11,
+        "level": "ez"
+    },
+    {
+        "quest": "4 + 3 = ?",
+        "op": "+",
+        "answer": [
+            7,
+            4,
+            8
+        ],
+        "correct": 7,
+        "level": "ez"
+    },
+    {
+        "quest": "3 + 6 = ?",
+        "op": "+",
+        "answer": [
+            5,
+            9,
+            15
+        ],
+        "correct": 9,
+        "level": "ez"
+    },
+    {
+        "quest": "2 + 1 = ?",
+        "op": "+",
+        "answer": [
+            9,
+            4,
+            3
+        ],
+        "correct": 3,
+        "level": "ez"
+    },
+    {
+        "quest": "4 + 4 = ?",
+        "op": "+",
+        "answer": [
+            8,
+            14,
+            12
+        ],
+        "correct": 8,
+        "level": "ez"
+    },
+    {
+        "quest": "5 + 5 = ?",
+        "op": "+",
+        "answer": [
+            10,
+            6,
+            17
+        ],
+        "correct": 10,
+        "level": "ez"
+    }
+    ,
+    {
+        "quest": "5 - 5 = ?",
+        "op": "-",
+        "answer": [
+            0,
+            6,
+            17
+        ],
+        "correct": 0,
+        "level": "ez"
+    }
+    ,
+    {
+        "quest": "5 * 5 = ?",
+        "op": "*",
+        "answer": [
+            10,
+            25,
+            17
+        ],
+        "correct": 25,
+        "level": "ez"
+    }
+    ,
+    {
+        "quest": "5 / 5 = ?",
+        "op": "/",
+        "answer": [
+            1,
+            6,
+            17
+        ],
+        "correct": 1,
+        "level": "ez"
+    },
+    
+    {
+        "quest": "33 + 33 = ?",
+        "op": "+",
+        "answer": [
+            66,
+            4,
+            11
+        ],
+        "correct": 66,
+        "level": "hard"
+    },
+    {
+        "quest": "17 + 19 = ?",
+        "op": "+",
+        "answer": [
+            36,
+            15,
+            14
+        ],
+        "correct": 36,
+        "level": "medium"
+    }
+]
